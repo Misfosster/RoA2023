@@ -8,3 +8,6 @@ ALDRIG (med undtagelse af ekstremt simple programmer) brug delay(x), da det stop
 
 # 30-08-2023
 Vi fik lavet studypoint opgave med lyskryds vha. en enum samt switchcase. Stepmotoren fik vi til at virke ved at følge guiden Tobias viste os.
+
+# 19-09-2023
+Gennemgået interface på JavaCSG og printet nogle test dele ud.
