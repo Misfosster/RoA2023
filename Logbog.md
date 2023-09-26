@@ -14,3 +14,6 @@ Gennemgået interface på JavaCSG og printet nogle test dele ud.
 
 # 22-09-2023
 Idag fik vi lavet første del af vores projekt, som går ud på at lave en holder til en maskindel. Dette gjorde vi vha. “hull” metoden i CSG-librariet og 2 cirkler i forlængelse af en rektangel der havde fraktrukket 4 mm for at tildele dem til diameteren på cirklen. Vi fandt ud af, at vi bliver nødt til at lave de 2 nederste cylinder-lignende dele til en adskilt genstand, da vi så kan lægge den på højkant og få vores cylinderform på vores cirkler når vi extruder dem til 3d. Vi har dog en klar idé om hvordan vi vil gøre det nu, hvilket hjælper til næste gang. Derudover fik jeg lavet et repository som vi kan sidde og teste på løbende.
+
+# 26-09-2023
+Vi sad på Discord i dag, hvor vi fik extruded vores main body. Vi målte også og fik lavet hængslen i toppen. Målene vi har brugt i dag er grove da de er målt med en tommelstok, og nærmere/mere præcise mål vil blive taget i skolen. 
