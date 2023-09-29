@@ -17,3 +17,6 @@ Idag fik vi lavet første del af vores projekt, som går ud på at lave en holde
 
 # 26-09-2023
 Vi sad på Discord i dag, hvor vi fik extruded vores main body. Vi målte også og fik lavet hængslen i toppen. Målene vi har brugt i dag er grove da de er målt med en tommelstok, og nærmere/mere præcise mål vil blive taget i skolen. 
+
+# 29-09-2023
+Endnu en dag med Discord. Vi fik lavet den nederste halvdel af motoren, hvor vi bestemte os for at en rektangel ville give mest mening, i stedet for 2 "cirkler" (pga. plastik beskyttelsen). Derudover fik vi tilføjet de 2 kroge på siden (ved at lave 2 firkanter - 1 på hver side), som plastik beskyttelsen sidder fast på.
