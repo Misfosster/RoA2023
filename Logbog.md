@@ -20,3 +20,6 @@ Vi sad på Discord i dag, hvor vi fik extruded vores main body. Vi målte også 
 
 # 29-09-2023
 Endnu en dag med Discord. Vi fik lavet den nederste halvdel af motoren, hvor vi bestemte os for at en rektangel ville give mest mening, i stedet for 2 "cirkler" (pga. plastik beskyttelsen). Derudover fik vi tilføjet de 2 kroge på siden (ved at lave 2 firkanter - 1 på hver side), som plastik beskyttelsen sidder fast på.
+
+# 03-10-2023
+Vi sad på Discord igen i dag. Super produktiv dag. Vi fik finpudset den nederste halvdel af vores model, således at den fik afrundede sider frem for at være 100% rektangulære. Dertil fik vi tilføjet motorarmene til figuren. Vi fandt derudover ud af hvordan man kan se en udhulet version af modellen, via "View Wireframe (F11)", hvilket hjælper på mere præcise mål i fremtiden frem for konstante udregninger.
