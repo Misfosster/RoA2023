@@ -23,3 +23,6 @@ Endnu en dag med Discord. Vi fik lavet den nederste halvdel af motoren, hvor vi 
 
 # 03-10-2023
 Vi sad på Discord igen i dag. Super produktiv dag. Vi fik finpudset den nederste halvdel af vores model, således at den fik afrundede sider frem for at være 100% rektangulære. Dertil fik vi tilføjet motorarmene til figuren. Vi fandt derudover ud af hvordan man kan se en udhulet version af modellen, via "View Wireframe (F11)", hvilket hjælper på mere præcise mål i fremtiden frem for konstante udregninger.
+
+# 06-10-2023
+Vi tog over på skolen idag for at få rettet på målene, samt diskutere hvordan vi skal få lavet den nedre del, således at boksen har plads til plastikken. Undervejs fandt vi ud af, at det ville give bedst mening at forskyde "main box". Plastikken er dog stadigt ikke lavet, og ville derfor give mening at lave i weekenden, så vi har tid til at lave boksen + noget kode som hører med til motoren.
