@@ -26,5 +26,8 @@ Vi sad på Discord igen i dag. Super produktiv dag. Vi fik finpudset den nederst
 # 06-10-2023
 Vi tog over på skolen idag for at få rettet på målene, samt diskutere hvordan vi skal få lavet den nedre del, således at boksen har plads til plastikken. Undervejs fandt vi ud af, at det ville give bedst mening at forskyde "main box". Plastikken er dog stadigt ikke lavet, og ville derfor give mening at lave i weekenden, så vi har tid til at lave boksen + noget kode som hører med til motoren.
 
+# 13-10-2023
+Vi startede med at researche omkring motorstyring og forbindelsen af motorer til vores NodeMCU. Efter at have fundet nok viden om driveren og motorerne, gik vi i gang med at implementere styring af vores motorer. Først arbejdede vi med en enkelt motor for at accelerere op og ned i hastighed samt skifte retning, og derefter gentog vi processen for den anden motor.
+
 # 16-10-2023
 I dag fik jeg lavet det sidste på vores projekt. Jeg lavede beholderen til motoren ved at lave 4 kugler, hvorefter jeg brugte 'hull' metoden for at få skabt en semi-rektangulær, men samtidigt afrundet boks. Derefter diffede jeg beholderen med et rektangel på tykkelsen 1 mm, for at den skal kunne åbnes. Til sidst upscalede jeg vores motor med 2%, for at den skal få plads, samt diffede den fra beholderen. Der mangler umiddelbart et kliksystem til beholderen på nuværende tidspunkt.
